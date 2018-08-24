@@ -9,6 +9,7 @@ xxxxxx
 cccccccvcbdc
 zdfsdfsdg
   dev branch   ok?
-Creating a new branch is quick & simple.
+
+Creating a new branch is quick and simple.
 
 
